@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Skilled Laborers Bagging Coffee, Sumatra, Indonesia",
+  "schema:description": "This image shows three skilled laborers filling bags with processed green coffee beans, using an industrial bagging machine. Hacienda La Minita serves as Distant Lands Coffee’s green coffee trading division, sourcing specialty coffee from countries such as Ethiopia. Coffee in Ethiopia is grown largely by smallholder farmers and processed at local cooperatives and washing stations.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d3ht2gp1c"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/00866361"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01050156"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01982989"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Sumatra_Lintong_MCC_134.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Sumatra_Lintong_MCC_134.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2007-10-21"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

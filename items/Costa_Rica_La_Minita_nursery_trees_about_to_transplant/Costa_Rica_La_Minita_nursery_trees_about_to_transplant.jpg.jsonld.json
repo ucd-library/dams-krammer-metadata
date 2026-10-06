@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "001",
+  "schema:alternativeHeadline": "Workers stand among dense parallel rows of leafy nursery plants; one carries a backpack sprayer while another bends over the foliage.",
+  "ebucore:filename": "Costa_Rica_La_Minita_nursery_trees_about_to_transplant.jpg",
+  "ebucore:hasMimeType": "image/jpeg"
+}

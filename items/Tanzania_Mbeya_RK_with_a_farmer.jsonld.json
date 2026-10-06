@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Russ Kramer and local farmer, Mbeya, Tanzania",
+  "schema:description": "This image shows Russ Kramer standing next to a local farmer in Mbeya, Tanzania. Hacienda La Minita serves as Distant Lands Coffee’s green coffee trading division, sourcing specialty coffee from Tanzania as part of its international coffee trade.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d3mk65k4s"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01738941"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866353"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01203670"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Tanzania_Mbeya_RK_with_a_farmer.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Tanzania_Mbeya_RK_with_a_farmer.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2024-09-08"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

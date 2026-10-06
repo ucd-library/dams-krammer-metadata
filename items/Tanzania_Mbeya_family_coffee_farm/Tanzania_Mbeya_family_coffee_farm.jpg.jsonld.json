@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "001",
+  "schema:alternativeHeadline": "Young coffee trees grow in rows around a small pale house with a metal roof, surrounded by taller trees and dense greenery.",
+  "ebucore:filename": "Tanzania_Mbeya_family_coffee_farm.jpg",
+  "ebucore:hasMimeType": "image/jpeg"
+}

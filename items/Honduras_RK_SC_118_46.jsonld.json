@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Skilled laborer stencilling coffee bag, Honduras",
+  "schema:description": "This image shows a worker stenciling coffee bags with a brush. The stencil contains information about the coffee's country of origin and where it was processed. Hacienda La Minita serves as Distant Lands Coffee’s green coffee trading division, sourcing coffee from Honduras as part of its international coffee trade.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d34q7r161"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/00866361"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01050156"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01206188"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Honduras_RK_SC_118_46.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Honduras_RK_SC_118_46.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2008-01-28"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

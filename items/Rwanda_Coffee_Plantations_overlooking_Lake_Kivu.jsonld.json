@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Coffee Fields Overlooking Lake Kivu, Rwanda",
+  "schema:description": "This image shows a coffee farm overlooking Lake Kivu in Rwanda.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d37h1dz0p"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01738941"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866353"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01212358"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Rwanda_Coffee_Plantations_overlooking_Lake_Kivu.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Rwanda_Coffee_Plantations_overlooking_Lake_Kivu.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2019-03-30"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

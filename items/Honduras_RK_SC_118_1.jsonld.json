@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Coffee Production, Honduras",
+  "schema:description": "This image depicts a wet-process coffee washing channel, a system used to clean pulped coffee beans and separate defects by density. The coffee is processed in long concrete canals to remove residual fruit mucilage, and workers use flowing water and manual tools to agitate and sort the beans before patio drying. Hacienda La Minita serves as Distant Lands Coffee’s green coffee trading division, sourcing coffee from Honduras as part of its international coffee trade.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d38g8ft98"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01738941"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866353"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01206188"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Honduras_RK_SC_118_1.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Honduras_RK_SC_118_1.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:genre": [
+    "Photographs"
+  ]
+}

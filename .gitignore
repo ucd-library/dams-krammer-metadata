@@ -1,0 +1,10 @@
+*
+!.gitignore
+!LICENSE
+!collection/
+!collection/**/
+!collection/**/*.jsonld.json
+!items/
+!items/**/
+!items/**/*.jsonld.json
+!COLLECTION_HANDOFF.md

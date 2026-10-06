@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "001",
+  "schema:alternativeHeadline": "Workers handle a large burlap coffee sack beside a floor scale in a warehouse lined with tall stacks of filled sacks.",
+  "ebucore:filename": "Ethiopopia_Sidamo_Nov_2004_64.jpg",
+  "ebucore:hasMimeType": "image/jpeg"
+}

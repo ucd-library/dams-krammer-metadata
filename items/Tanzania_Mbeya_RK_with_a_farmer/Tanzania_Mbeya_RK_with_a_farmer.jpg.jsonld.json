@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "001",
+  "schema:alternativeHeadline": "Two men stand together on a gravel path beside concrete processing tanks, with trees and green vegetation behind them.",
+  "ebucore:filename": "Tanzania_Mbeya_RK_with_a_farmer.jpg",
+  "ebucore:hasMimeType": "image/jpeg"
+}

@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Coffee Drying Station, Rwanda",
+  "schema:description": "This image shows raised drying beds on an incline; workers in the distance are spreading green coffee beans over the beds to dry after washing.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d33t9dh74"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/00866361"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00899170"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01212358"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Rwanda_Washing_Station.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Rwanda_Washing_Station.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2019-03-30"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

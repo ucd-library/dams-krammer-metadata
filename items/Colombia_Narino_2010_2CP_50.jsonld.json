@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
+  ],
+  "schema:name": "Farm Road, Narino, Colombia",
+  "schema:description": "This image depicts a farm road and landscape of a coffee farm in Narino, Colombia. Hacienda La Minita, Distant Lands Coffee’s green coffee trading division, maintains relationships with specialty coffee producers, millers, and exporters around the world. In Nariño, Colombia, Hacienda La Minita works with smallholder coffee producers and supervises the milling and preparation of regional coffees.",
+  "schema:identifier": [
+    "D-817",
+    "ark:/87293/d3h12vj73"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01738941"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00866353"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00641164"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/Colombia_Narino_2010_2CP_50.jpg"
+  },
+  "schema:image": {
+    "@id": "@base:/Colombia_Narino_2010_2CP_50.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+  },
+  "schema:creator": "Kramer, Russ",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2010-01-29"
+  },
+  "schema:genre": [
+    "Photographs"
+  ]
+}

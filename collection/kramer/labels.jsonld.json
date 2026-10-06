@@ -1,0 +1,180 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00641164",
+    "http://schema.org/name": "Colombia--Nariño"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00801061",
+    "http://schema.org/name": "Agricultural machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00866301",
+    "http://schema.org/name": "Coffee"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00866318",
+    "http://schema.org/name": "Coffee--Harvesting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00866329",
+    "http://schema.org/name": "Coffee--Processing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00866353",
+    "http://schema.org/name": "Coffee Growers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00866361",
+    "http://schema.org/name": "Coffee industry"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00899170",
+    "http://schema.org/name": "Drying"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00922973",
+    "http://schema.org/name": "Fermentation"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00951762",
+    "http://schema.org/name": "Harvesting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00979502",
+    "http://schema.org/name": "Irrigation"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01006076",
+    "http://schema.org/name": "Sorting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01050156",
+    "http://schema.org/name": "Packaging"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01065654",
+    "http://schema.org/name": "Plant propagation"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01080716",
+    "http://schema.org/name": "Pruning"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01083878",
+    "http://schema.org/name": "Pulping"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01084966",
+    "http://schema.org/name": "Quality control"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01203670",
+    "http://schema.org/name": "Tanzania--Mbeya"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206036",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206037",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206038",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206039",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206040",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206041",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206042",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206043",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206044",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206045",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206046",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206047",
+    "http://schema.org/name": "Costa Rica--San José"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206188",
+    "http://schema.org/name": "Honduras"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206791",
+    "http://schema.org/name": "Korea (South)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01210143",
+    "http://schema.org/name": "Tanzania"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01211951",
+    "http://schema.org/name": "Colombia--Antioquia"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01212358",
+    "http://schema.org/name": "Rwanda"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01214198",
+    "http://schema.org/name": "Ethiopia--Sidamo Kifle Hāger"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01226151",
+    "http://schema.org/name": "Ethiopia--Hārergē Kifle Hāger"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01228307",
+    "http://schema.org/name": "Nicaragua"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01738941",
+    "http://schema.org/name": "Coffee plantations"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01982989",
+    "http://schema.org/name": "Indonesia--Sumatra"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/02040614",
+    "http://schema.org/name": "Coffee tasting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/02060021",
+    "http://schema.org/name": "Brazil--Bahia"
+  }
+]
