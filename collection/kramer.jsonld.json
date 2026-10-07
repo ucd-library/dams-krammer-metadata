@@ -30,7 +30,10 @@
   },
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
-  "schema:sdDatePublished": {
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-10-05"
+"schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2026-10-05"
   },
